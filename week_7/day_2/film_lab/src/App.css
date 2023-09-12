@@ -1,0 +1,118 @@
+.header {
+  text-align: center;
+  background-color: black;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+.main-title {
+  text-align: center;
+  color: antiquewhite;
+  /* color: linear-gradient(to right, red, purple); */
+  font-size: large;
+  border-width: 5px;
+  
+}
+
+.main-title:hover {
+  color: rgb(218, 94, 115);
+}
+
+.App-logo {
+  margin-bottom: 5px;
+  margin-top: -15px;
+  font-size: xx-large;
+}
+
+/*  */
+
+.break {
+  /* border: 50px solid greenyellow; */
+}
+
+
+  @keyframes color-change {
+    0% {
+      background: #1de6f4ba;
+    }
+    25% {
+      background: #1b1d42e7;
+    }
+    50% {
+      background: #d0262684;
+    }
+    75% {
+      background: #f5be10;
+    }
+    100% {
+      background: #3fc616;
+    }
+  }
+
+.body {
+  /* border: 50px green; */
+  animation-name: color-change;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  border: 50px solid black;
+}
+
+/* ----------------------------------------------------- */
+
+.film-list-box {
+  /* margin-left: 10px; */
+  /* background-color: ghostwhite; */
+  /* animation-name: color-change;
+  animation-duration: infinite; */
+  font-size: large;
+  border: 50px solid rgb(158, 234, 133);
+  transition: border 750ms ease-out;
+  border-left: 150px solid;
+  border-right: 150px solid;
+}
+
+.film-list-box:hover{
+  border: 50px solid rgb(230, 170, 66);
+  /* background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c); */
+
+}
+
+.list-component {
+  list-style-type: none;
+  font-size: large;
+  text-align: center;
+  padding: 17.5px;
+}
+
+.url-redirect {
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+  /* margin-left: 10px; */
+  font-size: large;
+  margin-top: -40px;
+  padding: 20px;
+
+}
+
+a {
+  color: rgb(218, 94, 115);
+  font-weight: 600;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form-text {
+  color: rgb(218, 94, 115);
+  font-weight: 600;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer {
+  /* background-color: whitesmoke; */
+  height: 50vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  background: black;
+  row-gap: 0em;
+}

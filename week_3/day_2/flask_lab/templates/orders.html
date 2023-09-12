@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="REPLACE{{ url_for('static', filename='orders.css')}}">
+    <title>{{ title }}</title>
+</head>
+<body>
+    <h1>{{ title }}</h1>
+    <h2>{{ subtitle }}:</h2>
+    <ul>
+        {% for order in orders_list %}
+        <li><a href="/orders/{{order.book_title}}">{{order.book_title}}</a>:
+            <div> Sold to: {{order.customer_name}} </div>
+                    On the: {{order.order_date}}
+                    <div>Quantity: {{order.quantity}}</div>
+
+            <div> </div>
+            {% endfor %}
+        </li>
+
+
+
+    </ul>
+    
+</body>
+</html>

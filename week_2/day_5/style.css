@@ -1,0 +1,60 @@
+/* this is how we comment in css
+
+style.css file
+
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > header {
+    border-style: solid, dodgerblue;
+}
+
+body > footer { /* if we just put footer here it would apply the blue to ALL footer elements */
+    margin: 0; /* removes the margin so the footer extends to the end of the page */
+    background-color: dodgerblue;
+} /* the body > footer means we're applying all rules to the direct children of the body element */
+
+/* ... new section ... */
+
+body > footer > p { /* the paragraph of the footer in the body */
+    padding: 16px; /* padding is used to create space round an element insdie defined borders */
+    color: white;
+    text-align: center;
+}  
+
+#logo { /* we use the hash symbol to signify we're looking for an id value, followed by the id attribute value we want to match */
+    margin: 0;
+    font-family: "Fredoka One", sans-serif;
+    text-align: center;
+} /* here we're calling our id=logo and using the google font we've href in the link our <head>
+the <head> is for data about data and is for everything not seen in the document
+we're essentially saying we want this library of fonts to be used whilst creating
+this document */ 
+
+nav > ul { /* we call our sections with their name and the symbole > */
+    list-style: none;
+} /* here we're removing the bullet points from the list */
+
+nav > ul > li > a { /* <a> here is an anchor tag which is used to make the hyperlink */
+    color: white;
+} /*we're changing the colour of he list to white as blue on blue isn't easy to read */
+
+body > main > article {
+    margin: auto;
+    width: 70%;
+} /* here we're restricting the main body of text in the middle to be a certain width for neatness*/
+
+.like-button { /*calling our class by it's class="name"*/
+    background-color: transparent;
+    border: 1px solid dodgerblue;
+}
+
+.share-button {
+    background-color: transparent;
+    border: 1px solid green;
+}
+
+

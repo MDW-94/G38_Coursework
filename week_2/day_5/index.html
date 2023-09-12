@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> <!-- end code with styling, CSS? -->
+    <title>CodeClan Blog Site</title>
+</head>
+<body>
+    <header> <!-- our header content will go here (blue) -->
+        <h1>CodeClan Blog Site</h1> <!-- top level header-->
+        <nav><!-- for navigational links-->
+            <ul><!--Our links will go under here, a list of links wrappin in <li>-->
+                <li>
+                    <a href="/home">Home</a> <!--our href is a link, the word wrapped is displayed-->
+                </li>
+                <li>
+                    <a href="/about">About</a> <!-- <a> tag defines a hyperlink -->
+                </li>
+                <li>
+                    <a href="/blog">Blog</a> <!-- href specifies the URL of page-->
+                </li>
+                <li>
+                    <a href="/contact">Contact</a>
+                </li>
+            </ul>
+
+        </nav>
+    </header>
+    <main> <!-- our main content will go here (white)-->
+        <article> <!-- Our blog post will go here -->
+            <header> <!-- these same 3 tags within article will act as the body of the blog post -->
+                <h2> Ten Amusing Facts About Kittens </h2> <!-- the hierarchy of headers is still important -->
+                <h3> Read Time: 5 minutes </h3> <!-- <h3> is a sub heading of <h2> -->
+            </header> <!-- the same elements outside of these tags would be for the page as a whole-->
+            <!--Whilst the <h2> <h3> elements are wrapped in the <header> tag they are part of the overall heading-->
+            <main>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                    magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.  
+                </p>
+                <blockquote cite="https://codeclan.com/"> <!-- a block quote is used to highlight a particular part of a piece -->
+                    "Kittens." - <cite>CodeClan, 2020</cite> <!-- when a blcokqutoe is used we typically use a <cite> tag to credit the quote personally-->
+                </blockquote> <!-- we also use a cite="source" attritubute on the blockquote to credit the source of the quote -->
+                <p>
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                    magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                    magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                    magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.
+                </p>
+            </main>
+            <footer> <!-- our blog post will have three child elements, the image of the author and two heading elements-->
+                <img src="https://i.imgur.com/sOUgMbE.jpg" alt="A. Cat"> <!-- <img> tag where we define a source (src="URL source") and an alternative (alt="alternative text")-->
+                <div> <!-- the <div> tag is used as a division or section in a HTML document, a contianer for HTML elements  -->
+                    <h2>Author: A. Cat Jr.</h2>
+                    <h3>Last posted: 2020-01-24</h3>
+                    <a href="https://codeclan.com/" target="_blank">https://codeclan.com</a> <!-- target="_blank" means that the URL link will create a new tab when the user clicks on it -->
+                </div>
+            </footer>
+        </article> <!-- The <article> tag specifies independent, self-contained content-->
+        <aside> <!-- Our side menu will go here -->
+            <section> <!-- defines a section in a HTML document -->
+                <h2>Filter by Month</h2>
+                <nav>
+                    <ul>
+                        <li><a href="/blog/month/january"></a>January</li>
+                        <li><a href="/blog/month/february">February</a></li>
+                        <li><a href="/blog/month/march">March</a></li>
+                    </ul>
+                </nav>
+            </section>
+            <section>
+                <h2>Filter by Category</h2>
+                <nav>
+                    <ul>
+                        <li><a href="/blog/kittens">Kittnens</a></li>
+                        <li><a href="/blog/cats">Cats</a></li>
+                        <li><a href="/blog/morekittens">More Kittens</a></li>
+                        <li><a href="/blog/dogs">Dogs</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </aside>
+    </main>
+    <footer> <!-- our footer content will go here (blue). Will include: site logo, a list of pages to navigate to and a file list -->
+        <h1>CodeClan Blog Site</h1>
+        <div id="footer-container">
+            <section> <!-- Our siteemap will go here -->
+                <h2>Our Site</h2>
+                <nav> <!-- defines a set of navigation links -->
+                    <ul> <!-- grouping in list style where order is meaningless -->
+                        <li><a href="/home">Home</a></li> <!-- <li> used to represent item in list -->
+                        <li><a href="/about">About</a></li>
+                        <li><a href="/blog">Blog</a></li>
+                        <li><a href="/contact">Contact</a></li>
+                    </ul>
+                </nav> <!-- all tag elements have to be closed when used -->
+            </section>
+            <section> <!-- Our important files will go here -->
+                <h2>Important Files</h2>
+                <nav>
+                    <ul>
+                        <li><a href="/">Privacy Policy</a></li>
+                        <li><a href="/">Terms & Conditions</a></li>
+                        <li><a href="/">Cookie Policy</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>{{ title }}</title>
+        
+
+    </head>
+    <body>
+        <h1>MY TODO LIST!</h1>
+        {% for task in tasks %} <!-- this is python but executeable, to do something -->
+        <div>
+            <p>
+                {{task.title}}:{{task.description}} <!-- this is just to display something -->
+            </p>
+
+        </div>
+        {% endfor %}
+
+    </body>
+
+
+
+</html>

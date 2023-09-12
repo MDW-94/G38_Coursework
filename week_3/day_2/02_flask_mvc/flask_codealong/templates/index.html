@@ -1,0 +1,25 @@
+<head>
+    <title>{{ title }}</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>  </li>
+        </ul>
+    </nav>
+    <hr>
+    <h1>All Orders!</h1>
+
+    <div class="order-container">
+        {% for order in orders %}
+        <div class="order">
+            <h2>{{order.customer}}</h2>
+            <h3>{{order.order_date}}</h3>
+            <h5></h5>
+            <a href="/orders/{{orders.index(order)}}">Show Order</a>
+        </div>
+        {% endfor %}
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,21 @@
+{% extends "base.html" %} {% block content %}
+
+
+
+<div>
+    <h2>Event Name: {{event.name}}</h2>
+    <p>Date : {{event.date}}</p>
+    <p>Number of Guests : {{event.guests}}</p>
+    <p>Location : {{event.location}}</p>
+    <p>Date : {{event.date}}</p>
+    <p>Recurring : <b>{% if event.recurring %}</b> 
+        <span> &#9989; </span>
+        {% else %}
+        <span> &#10060; </span>
+        {% endif %}
+    </p>
+</div>
+
+<a href="/events"><h3> Home </h3></a>
+
+{% endblock %}

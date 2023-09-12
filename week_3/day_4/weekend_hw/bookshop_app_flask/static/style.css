@@ -1,0 +1,44 @@
+.background {
+    background-color: rgb(93, 219, 181);
+}
+
+.main_title {
+    padding: 1rem;
+    text-transform: uppercase;
+    font-size: 30px;
+    background-color: rgb(244, 107, 107);
+    color: white;
+    opacity: 0.8;
+}
+
+.nav_bar {
+    background-color: rgba(253, 187, 100, 0.851);
+    padding: 1rem;
+    color: white;
+
+}
+
+/*  */
+
+.home_page {
+    background-color: rgb(129, 234, 129);
+}
+
+/* index.html  */
+
+.sub_title {
+    background-color: rgb(62, 217, 217);
+    padding: 1rem;
+    color: white
+}
+
+.form_style {
+    background-color: rgb(156, 232, 232);
+    color: white;
+}
+
+.item_info {
+    background-color: rgba(238, 128, 128, 0.959);
+    padding: 1rem;
+    color: white;
+}

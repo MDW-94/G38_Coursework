@@ -1,0 +1,62 @@
+
+{% extends 'base.html' %} {% block content %}
+<!---->
+<p>
+    <div>
+    <hr>
+    <form action="/events" method="post">
+        <h2><u>Add New Event</u> - <input type="submit" value="Submit New Event"/></h2>
+            <ul>
+                <label for="title">Event Name:</label><br>
+                <input type="text" name="title" id="title"/></ul>
+
+            <ul>
+                <label for="date">Request Date:</label><br>
+                <input type="text" name="date" id="date"/></ul>
+
+            <ul>
+                <label for="location">Request Location:</label><br>
+                <input type="text" name="location" id="location"/></ul>
+
+            <ul>
+                <label for="num_of_guests">No. Guests:</label><br>
+                <input type="text" name="num_of_guests" id="num_of_guests"/></ul>
+
+            <ul>
+                <label for="description">Description:</label><br>
+                <textarea name="description" id="description" rows="5" cols="50"></textarea></ul>
+
+            </ul>
+    </form>
+    <hr>
+</div>
+</p>
+
+<!---->
+
+<h2> Events Planner: </h2>
+
+<p>
+    <div overflow:scroll> 
+        {% for event in events %}
+        <ul>
+            <hr>
+            <div>
+                <ul>Name: {{event.name}}</ul>
+                <ul>Date: {{event.date}}</ul>
+                <ul>Location: {{event.location}}</ul>
+                <ul>Guests: {{event.num_of_guests}}</ul>
+                <ul><div>Description:
+                    <div>{{event.description}}</div>
+                </div>
+                </ul>
+            </div>
+            <hr>        
+        </ul>
+    </div>
+</p> {% endfor %} 
+
+
+
+
+{% endblock %}

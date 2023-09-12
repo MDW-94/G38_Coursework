@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title> {{ title }} </title>
+</head>
+<body class="background">
+    <div class="main_title"><u><h1> Bizarre Beach Books // {{ title }} &#127958;</h1></u></div>
+
+    <hr>
+    <nav><div class="nav_bar">
+        <h4>Navigation Bar</h4>
+        <div>
+            <ul class="nav-links">
+                <ul><a href="/home">Home</a></ul>
+                <ul><a href="/library">Library</a></ul>
+            </ul>
+        </div>
+    </div>
+    </nav>
+    <hr>
+<!--Consistent Header Bar End-->
+
+{% block content %} {% endblock %}
+</body>
+</html>

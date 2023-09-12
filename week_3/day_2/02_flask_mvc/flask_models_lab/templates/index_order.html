@@ -1,0 +1,28 @@
+<html>
+<head>
+    <link
+  rel="stylesheet"
+  href="{{ url_for('static', filename='index_order_style.css') }}"
+/>
+    <title>{{ title }}</title>
+</head>
+<body>
+    <header>
+    <h1 align="center">{{ title }}</h1>
+    </header>
+    <ul>
+        {% for item in catalogue %}
+        <li><h2><a href="http://127.0.0.1:4999/catalogue/<index>">{{item.item_name}}</a> : £{{item.item_price}}</h2>
+            <br> {{item.description}}</li> <!--the "call" must be the iteration-->
+            <br>
+            <br> Sold to: {{item.customer}}, {{item.date}} (Quantity: {{item.quantity}})
+            <br>
+            <br>
+            <br>
+        {% endfor %}
+        
+
+    </ul>
+    
+</body>
+</html>

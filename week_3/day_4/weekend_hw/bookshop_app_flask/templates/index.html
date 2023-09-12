@@ -1,0 +1,60 @@
+{% extends "base.html" %} {% block content %}
+
+
+<div class="submain_title"><h3>See Our Collection of Books Below</h3></div>
+
+<hr> <!-- Donate a Book Section -->
+
+<div class="form_style"><div class="sub_title"><h3>Donate a Book to Our Collection</h3></div>
+<div><p>
+    <ul>
+        <form action="/library" method="post">
+            <label for="title">Title :</label>
+            <input type="text" name="title" id="title"/>
+
+            <label for="author">Author :</label>
+            <input type="text" name="author" id="author"/>
+
+            <label for="genre">Genre :</label>
+            <input type="text" name="genre" id="genre"/>
+
+            <!-- <label for="checked_out">Title</label>
+            <input type="text" name="title" id="title"/> -->
+
+            <input type="submit" value="Donate Book &#128076;"/>
+        </form>
+    </ul>
+</p></div></div>
+
+<hr> <!-- Collections of Books -->
+
+<u><h3>The Collection</h3></u>
+{% for book in books %}
+<div>
+<p class="item">
+    <hr>
+    <ul class="item_info">
+        <ul style="font-size:100px"><div>&#128214;</div></ul> <!-- Book Icon Emoji -->
+        <ul><h4>Title : <a href="/library/{{books.index(book)}}">
+        {{book.title}}</a></h4></ul>
+        <ul>Author : {{book.author}}</ul>
+        <ul>Genre : {{book.genre}}</ul>
+        <ul>Checkout Available : {% if book.checked_out %} <!-- Will reverse this to make sense on display -->
+            <span> &#10060;</span>
+            {% else %}
+            <span> &#9989; </span>
+            {% endif %}
+        </ul><br>
+        <ul>
+            <form action="/library/delete/{{book.title}}" method="POST">
+                <input type="submit" value="Delete"/>
+            </form>
+        </ul>
+    </ul>
+</p>
+</div>
+{% endfor %}
+
+<hr>
+
+{% endblock %}

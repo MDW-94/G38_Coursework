@@ -1,0 +1,35 @@
+{% extends "base.html" %} {% block content %}
+
+<div>
+    <h3>Title : {{book.title}}</h3>
+    <ul style="font-size:100px"><div>&#128214;</div></ul>
+    <p>Author : {{book.author}}</p>
+    <p>Genre : {{book.genre}}</p>
+    <p>Checkout Available : {% if book.checked_out %} 
+        <span> &#10060;</span>
+        {% else %}
+        <span> &#9989; </span>
+        {% endif %}
+    </p>
+    <div><p>
+        <!-- if statement with title: this book is ready to be checked out -->
+        <form action="/library/checkout/{{book.title}}" method="POST">
+            <input type="radio" name="checkout" id="checkout">
+            <label for="checkout">Checkout</label><br><br>
+            <input type="radio" name="return" id="return">
+            <label for="return">Return</label><br><br>
+            <input type="submit" value="Submit"/>
+
+        </form>
+    </p></div><br>
+    <div><p>
+        <form action="/library/delete/{{book.title}}" method="POST">
+            <input type="submit" value="Delete"/>
+        </form>
+    </p></div>
+</div>
+<hr>
+
+
+
+{% endblock %}

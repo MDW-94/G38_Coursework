@@ -1,0 +1,25 @@
+<html>
+<head>
+    <link
+    rel="stylesheet"
+    href="{{ url_for('static', filename='index_order_style.css') }}"
+  />
+    <title>{{ title }}</title>
+</head>
+<body>
+    <header>
+    <h1 align="center">{{ title }}</h1>
+    </header>
+    <ul>
+        {% for item in catalogue %}
+        <li>{{item.item_name}} : £{{item.item_price}}
+            <br> 
+            <br> {{item.description}}</li> <!--the "call" must be the iteration-->
+            <br>
+        {% endfor %}
+        
+
+    </ul>
+    
+</body>
+</html>

@@ -1,0 +1,31 @@
+<html>
+
+<head>
+    <link
+    rel="stylesheet"
+    href="{{ url_for('static', filename='orders.css') }}"
+  />
+    <title>{{ title }} - Orders</title>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li class="navLink"><a href="/orders">Home</a></li>
+        </ul>
+    </nav>
+    <hr>
+    <h1>{{order.book_title}}</h1>
+
+    <div class="order-container">
+
+        <div class="order">
+            <h2>{{ order.book_title }}</h2>
+            <h3>{{ order.customer_name }}</h3>
+            <h4>When: {{ order.order_date.strftime("%b %d %Y") }}</h4>
+            <h5>Quantity: {{ order.quantity }}</h5>
+        </div>
+    </div>
+</body>
+
+</html>
