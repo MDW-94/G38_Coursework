@@ -99,6 +99,7 @@ a {
   color: rgb(218, 94, 115);
   font-weight: 600;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
 }
 
 .form-text {

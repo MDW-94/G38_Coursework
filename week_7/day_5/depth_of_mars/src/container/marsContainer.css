@@ -1,0 +1,29 @@
+.title-bar-body{
+    text-align: center;
+    color: antiquewhite;
+    border-style: solid;
+    background: black;
+    animation: color 60s infinite linear;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+@keyframes color {
+    0%   { background: #000000; }
+    20%  { background: #d64e10; }
+    40%  { background: #000000; }
+    60%  { background: #FCCA00; }
+    80%  { background: #182418; }
+    100% { background: #ec0000; }
+  }
+
+.text-body {
+    display:flex; 
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.image{
+    text-align: center;
+}

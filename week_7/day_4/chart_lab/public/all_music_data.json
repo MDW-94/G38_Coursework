@@ -1,0 +1,2434 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/uk/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "im:name": {
+                    "label": "adore u"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/97/dd/7f97ddab-43e6-6e83-923a-e243d37d722c/5054197770555.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/97/dd/7f97ddab-43e6-6e83-923a-e243d37d722c/5054197770555.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/97/dd/7f97ddab-43e6-6e83-923a-e243d37d722c/5054197770555.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "adore u - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/adore-u-single/1700707216?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "Under exclusive licence to Warner Music UK Limited .An Atlantic Records UK release., ℗ 2023 Fred Gibson"
+                },
+                "title": {
+                    "label": "adore u - Fred again.. & Obongjayar"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/adore-u/1700707216?i=1700707219&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d6/c2/b6/d6c2b605-813b-cf13-eae7-13d5200cb75c/mzaf_534476567296952811.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/adore-u/1700707216?i=1700707219&uo=2",
+                    "attributes": {
+                        "im:id": "1700707219"
+                    }
+                },
+                "im:artist": {
+                    "label": "Fred again.. & Obongjayar",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/fred-again/1455262408?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "7",
+                        "term": "Electronic",
+                        "scheme": "https://music.apple.com/gb/genre/music-electronic/id7?uo=2",
+                        "label": "Electronic"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-08-11T05:00:00-07:00",
+                    "attributes": {
+                        "label": "11 August 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Used To Be Young"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/b2/9a/dbb29a5c-b5b6-5acd-4e28-0c85744a2605/196871387910.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/b2/9a/dbb29a5c-b5b6-5acd-4e28-0c85744a2605/196871387910.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/b2/9a/dbb29a5c-b5b6-5acd-4e28-0c85744a2605/196871387910.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Used To Be Young - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/used-to-be-young-single/1702776418?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2023 Smiley Miley, Inc. under exclusive license to Columbia Records, a Division of Sony Music Entertainment"
+                },
+                "title": {
+                    "label": "Used To Be Young - Miley Cyrus"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/used-to-be-young/1702776418?i=1702776420&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1a/5e/18/1a5e1827-a88d-fc81-786f-d4e82eb988c6/mzaf_15386665658208057246.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/used-to-be-young/1702776418?i=1702776420&uo=2",
+                    "attributes": {
+                        "im:id": "1702776420"
+                    }
+                },
+                "im:artist": {
+                    "label": "Miley Cyrus",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/miley-cyrus/137057909?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "14",
+                        "term": "Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop/id14?uo=2",
+                        "label": "Pop"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-08-25T00:00:00-07:00",
+                    "attributes": {
+                        "label": "25 August 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Desire"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/43/52/d2435238-84c2-1264-4e43-928dc5c1b720/196871283625.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/43/52/d2435238-84c2-1264-4e43-928dc5c1b720/196871283625.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/43/52/d2435238-84c2-1264-4e43-928dc5c1b720/196871283625.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Desire - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/desire-single/1696083313?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2023 Sony Music Entertainment UK Limited"
+                },
+                "title": {
+                    "label": "Desire - Calvin Harris & Sam Smith"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/desire/1696083313?i=1696083506&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/88/69/4e/88694e66-f607-b75b-9572-4fd06e68e739/mzaf_1902020403239060480.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/desire/1696083313?i=1696083506&uo=2",
+                    "attributes": {
+                        "im:id": "1696083506"
+                    }
+                },
+                "im:artist": {
+                    "label": "Calvin Harris & Sam Smith",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/calvin-harris/201955086?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "17",
+                        "term": "Dance",
+                        "scheme": "https://music.apple.com/gb/genre/music-dance/id17?uo=2",
+                        "label": "Dance"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-07-28T05:00:00-07:00",
+                    "attributes": {
+                        "label": "28 July 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Baddadan (feat. IRah, Flowdan, Trigga & Takura)"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/a6/bf/c9a6bf78-0584-4d07-2bf1-e4008d879a23/23UMGIM82278.rgb.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/a6/bf/c9a6bf78-0584-4d07-2bf1-e4008d879a23/23UMGIM82278.rgb.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/a6/bf/c9a6bf78-0584-4d07-2bf1-e4008d879a23/23UMGIM82278.rgb.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Baddadan (feat. IRah, Flowdan, Trigga & Takura) - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/baddadan-feat-irah-flowdan-trigga-takura-single/1698551194?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "An EMI release; ℗ 2023 Chase & Status, under exclusive licence to Universal Music Operations Limited"
+                },
+                "title": {
+                    "label": "Baddadan (feat. IRah, Flowdan, Trigga & Takura) - Chase & Status & Bou"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/baddadan-feat-irah-flowdan-trigga-takura/1698551194?i=1698551200&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c3/5c/54/c35c5471-5cf6-caf2-6e1f-5595762599f0/mzaf_8742237962066747079.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/baddadan-feat-irah-flowdan-trigga-takura/1698551194?i=1698551200&uo=2",
+                    "attributes": {
+                        "im:id": "1698551200"
+                    }
+                },
+                "im:artist": {
+                    "label": "Chase & Status & Bou",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/chase-status/121546679?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "17",
+                        "term": "Dance",
+                        "scheme": "https://music.apple.com/gb/genre/music-dance/id17?uo=2",
+                        "label": "Dance"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-07-27T05:00:00-07:00",
+                    "attributes": {
+                        "label": "27 July 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Angry"
+                },
+                "rights": {
+                    "label": "A Polydor Records Release; ℗ 2023 Promotone B.V., under exclusive licence to Universal International Music B.V."
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:collection": {
+                    "im:name": {
+                        "label": "Hackney Diamonds"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/hackney-diamonds/1704373695?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/55/b7/af55b7c8-e6d2-d806-8186-a6207bef2638/23UMGIM99574.rgb.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/55/b7/af55b7c8-e6d2-d806-8186-a6207bef2638/23UMGIM99574.rgb.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/55/b7/af55b7c8-e6d2-d806-8186-a6207bef2638/23UMGIM99574.rgb.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:artist": {
+                    "label": "The Rolling Stones",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/the-rolling-stones/1249595?uo=2"
+                    }
+                },
+                "title": {
+                    "label": "Angry - The Rolling Stones"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/angry/1704373695?i=1704374028&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/26/2c/99/262c9914-50d5-17ba-2102-75e921377a06/mzaf_3217690456855107890.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/angry/1704373695?i=1704374028&uo=2",
+                    "attributes": {
+                        "im:id": "1704374028"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "21",
+                        "term": "Rock",
+                        "scheme": "https://music.apple.com/gb/genre/music-rock/id21?uo=2",
+                        "label": "Rock"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Only One"
+                },
+                "rights": {
+                    "label": "℗ 2023 Rebel Records"
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:collection": {
+                    "im:name": {
+                        "label": "Only One - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/only-one-single/1704338149?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/3d/0a/b53d0a43-656b-cf99-4263-a6c019f2c33b/5063346585759_cover.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/3d/0a/b53d0a43-656b-cf99-4263-a6c019f2c33b/5063346585759_cover.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/3d/0a/b53d0a43-656b-cf99-4263-a6c019f2c33b/5063346585759_cover.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:artist": {
+                    "label": "Junior Andre",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/junior-andre/1462835327?uo=2"
+                    }
+                },
+                "title": {
+                    "label": "Only One - Junior Andre"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/only-one/1704338149?i=1704338157&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/00/05/0c/00050cb3-01a6-5110-9769-35fb11b9752b/mzaf_6357564545368870766.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/only-one/1704338149?i=1704338157&uo=2",
+                    "attributes": {
+                        "im:id": "1704338157"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "14",
+                        "term": "Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop/id14?uo=2",
+                        "label": "Pop"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "When the Rain Comes"
+                },
+                "rights": {
+                    "label": "℗ 2023 Sugababes under exclusive licence to BMG Rights Management (UK) Limited"
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:collection": {
+                    "im:name": {
+                        "label": "When the Rain Comes - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/when-the-rain-comes-single/1706358432?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/fa/8c/63fa8c00-f9e9-2ce5-d605-5da9da82e721/4050538977219.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/fa/8c/63fa8c00-f9e9-2ce5-d605-5da9da82e721/4050538977219.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/fa/8c/63fa8c00-f9e9-2ce5-d605-5da9da82e721/4050538977219.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:artist": {
+                    "label": "Sugababes",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/sugababes/5414192?uo=2"
+                    }
+                },
+                "title": {
+                    "label": "When the Rain Comes - Sugababes"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/when-the-rain-comes/1706358432?i=1706358711&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/11/b8/b1/11b8b129-fd0b-8015-08ec-703bfb632833/mzaf_11532048442718376074.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/when-the-rain-comes/1706358432?i=1706358711&uo=2",
+                    "attributes": {
+                        "im:id": "1706358711"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "14",
+                        "term": "Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop/id14?uo=2",
+                        "label": "Pop"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Bittersweet Goodbye"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/cc/6a/3ccc6a4b-f403-2f91-1df8-71be68b0690c/5054197697951.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/cc/6a/3ccc6a4b-f403-2f91-1df8-71be68b0690c/5054197697951.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/cc/6a/3ccc6a4b-f403-2f91-1df8-71be68b0690c/5054197697951.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Bittersweet Goodbye - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/bittersweet-goodbye-single/1691562161?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "Under exclusive licence to Warner Music UK Limited. An Atlantic Records UK release, ℗ 2023 Isabella Cross"
+                },
+                "title": {
+                    "label": "Bittersweet Goodbye - Issey Cross"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/bittersweet-goodbye/1691562161?i=1691562164&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/71/e5/f671e556-b68f-1508-82bc-4d910efd3e0f/mzaf_6012376572340804201.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/bittersweet-goodbye/1691562161?i=1691562164&uo=2",
+                    "attributes": {
+                        "im:id": "1691562164"
+                    }
+                },
+                "im:artist": {
+                    "label": "Issey Cross",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/issey-cross/1545862007?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "17",
+                        "term": "Dance",
+                        "scheme": "https://music.apple.com/gb/genre/music-dance/id17?uo=2",
+                        "label": "Dance"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-06-30T05:00:00-07:00",
+                    "attributes": {
+                        "label": "30 June 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "(It Goes Like) Nanana (Edit)"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/a7/96/a7a79669-7b20-9026-cb8e-773b1a9d31e3/191404137420.png/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/a7/96/a7a79669-7b20-9026-cb8e-773b1a9d31e3/191404137420.png/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/a7/96/a7a79669-7b20-9026-cb8e-773b1a9d31e3/191404137420.png/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "(It Goes Like) Nanana [Edit] - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/it-goes-like-nanana-edit-single/1689088940?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2023 XL Recordings Ltd"
+                },
+                "title": {
+                    "label": "(It Goes Like) Nanana (Edit) - Peggy Gou"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/it-goes-like-nanana-edit/1689088940?i=1689088958&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/6a/a1/29/6aa129cb-d7d9-3f66-d2c3-b9aff26705a3/mzaf_17091038548344967542.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/it-goes-like-nanana-edit/1689088940?i=1689088958&uo=2",
+                    "attributes": {
+                        "im:id": "1689088958"
+                    }
+                },
+                "im:artist": {
+                    "label": "Peggy Gou",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/peggy-gou/1068912248?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "17",
+                        "term": "Dance",
+                        "scheme": "https://music.apple.com/gb/genre/music-dance/id17?uo=2",
+                        "label": "Dance"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-06-15T05:00:00-07:00",
+                    "attributes": {
+                        "label": "15 June 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Asking (feat. Clementine Douglas)"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/19/ae/c219aee8-2f41-ae15-21e9-a07b07a176cc/197338644713.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/19/ae/c219aee8-2f41-ae15-21e9-a07b07a176cc/197338644713.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/19/ae/c219aee8-2f41-ae15-21e9-a07b07a176cc/197338644713.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Asking (feat. Clementine Douglas) - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/asking-feat-clementine-douglas-single/1693371171?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2023 Solotoko"
+                },
+                "title": {
+                    "label": "Asking (feat. Clementine Douglas) - Sonny Fodera & MK"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/asking-feat-clementine-douglas/1693371171?i=1693371172&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c5/4f/a6/c54fa662-7a50-3190-07cf-dcdfbfd1b892/mzaf_13171255523516179888.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/asking-feat-clementine-douglas/1693371171?i=1693371172&uo=2",
+                    "attributes": {
+                        "im:id": "1693371172"
+                    }
+                },
+                "im:artist": {
+                    "label": "Sonny Fodera & MK",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/sonny-fodera/324128050?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "17",
+                        "term": "Dance",
+                        "scheme": "https://music.apple.com/gb/genre/music-dance/id17?uo=2",
+                        "label": "Dance"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-07-07T05:00:00-07:00",
+                    "attributes": {
+                        "label": "07 July 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Dance The Night"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/54/97/c05497aa-c19f-bf4f-de29-71edf30fbefb/075679688767.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/54/97/c05497aa-c19f-bf4f-de29-71edf30fbefb/075679688767.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/54/97/c05497aa-c19f-bf4f-de29-71edf30fbefb/075679688767.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Barbie The Album"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/barbie-the-album/1689238301?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2023 Atlantic Recording Corporation, Warner Bros. Entertainment, Inc. & Mattel, Inc."
+                },
+                "title": {
+                    "label": "Dance The Night - Dua Lipa"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/dance-the-night/1689238301?i=1689238922&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/90/92/9f/90929fcd-cb53-ee73-b636-3516aefa75ab/mzaf_4867061639922734274.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/dance-the-night/1689238301?i=1689238922&uo=2",
+                    "attributes": {
+                        "im:id": "1689238922"
+                    }
+                },
+                "im:artist": {
+                    "label": "Dua Lipa",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/dua-lipa/1031397873?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "14",
+                        "term": "Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop/id14?uo=2",
+                        "label": "Pop"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-05-27T00:00:00-07:00",
+                    "attributes": {
+                        "label": "27 May 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Cruel Summer"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Lover"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/lover/1468058165?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2019 Taylor Swift"
+                },
+                "title": {
+                    "label": "Cruel Summer - Taylor Swift"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/cruel-summer/1468058165?i=1468058171&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/85/8e/b9/858eb9a3-e75a-363a-4049-71d654a4104c/mzaf_15464617098712151889.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/cruel-summer/1468058165?i=1468058171&uo=2",
+                    "attributes": {
+                        "im:id": "1468058171"
+                    }
+                },
+                "im:artist": {
+                    "label": "Taylor Swift",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/taylor-swift/159260351?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "14",
+                        "term": "Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop/id14?uo=2",
+                        "label": "Pop"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2019-08-23T00:00:00-07:00",
+                    "attributes": {
+                        "label": "23 August 2019"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "My Love (feat. Ayra Starr)"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/19/f6/9219f622-66c5-a250-01a0-2f57822589a3/5054197753282.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/19/f6/9219f622-66c5-a250-01a0-2f57822589a3/5054197753282.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/19/f6/9219f622-66c5-a250-01a0-2f57822589a3/5054197753282.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "My Love (feat. Ayra Starr) - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/my-love-feat-ayra-starr-single/1703219048?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "Under Exclusive Licence to Warner Music UK Limited, ℗ 2023 MADEINTHE90S LIMITED"
+                },
+                "title": {
+                    "label": "My Love (feat. Ayra Starr) - Leigh-Anne"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/my-love-feat-ayra-starr/1703219048?i=1703219049&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/07/5d/25/075d2578-5a68-2ad5-843c-f53597c647b8/mzaf_9967162736418429605.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/my-love-feat-ayra-starr/1703219048?i=1703219049&uo=2",
+                    "attributes": {
+                        "im:id": "1703219049"
+                    }
+                },
+                "im:artist": {
+                    "label": "Leigh-Anne",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/leigh-anne/1691386195?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "14",
+                        "term": "Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop/id14?uo=2",
+                        "label": "Pop"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-09-07T05:00:00-07:00",
+                    "attributes": {
+                        "label": "07 September 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Beside You"
+                },
+                "rights": {
+                    "label": "An Atlantic Records Release, ℗ 2023 Warner Music UK Limited"
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:collection": {
+                    "im:name": {
+                        "label": "Who We Used To Be (Deluxe)"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/who-we-used-to-be-deluxe/1698735113?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/49/47/03494703-ea74-4372-6523-474bfca9c41e/5054197761874.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/49/47/03494703-ea74-4372-6523-474bfca9c41e/5054197761874.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/49/47/03494703-ea74-4372-6523-474bfca9c41e/5054197761874.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:artist": {
+                    "label": "James Blunt",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/james-blunt/27496674?uo=2"
+                    }
+                },
+                "title": {
+                    "label": "Beside You - James Blunt"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/beside-you/1698735113?i=1698735121&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bd/ad/9f/bdad9fc0-bca2-8e5d-4e2d-aeb2797ba981/mzaf_16839805447372143294.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/beside-you/1698735113?i=1698735121&uo=2",
+                    "attributes": {
+                        "im:id": "1698735121"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "14",
+                        "term": "Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop/id14?uo=2",
+                        "label": "Pop"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Slow Dancing"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/51/e0/9351e0b4-a565-4232-d797-f60ca3aba82f/196922580031_Cover.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/51/e0/9351e0b4-a565-4232-d797-f60ca3aba82f/196922580031_Cover.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/51/e0/9351e0b4-a565-4232-d797-f60ca3aba82f/196922580031_Cover.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Layover - EP"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/layover-ep/1700686527?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2023 BIGHIT MUSIC"
+                },
+                "title": {
+                    "label": "Slow Dancing - V"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/slow-dancing/1700686527?i=1700687144&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/6a/80/15/6a80157d-6a55-802a-9b85-dc3e698ffc2b/mzaf_10992965003340559584.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/slow-dancing/1700686527?i=1700687144&uo=2",
+                    "attributes": {
+                        "im:id": "1700687144"
+                    }
+                },
+                "im:artist": {
+                    "label": "V",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/v/1191852113?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "51",
+                        "term": "K-Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop-k-pop/id51?uo=2",
+                        "label": "K-Pop"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-09-08T05:00:00-07:00",
+                    "attributes": {
+                        "label": "08 September 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Lil Boo Thang"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/5d/dc/ea5ddcb8-66c6-c3ab-e268-41e2d8d675a0/196871378383.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/5d/dc/ea5ddcb8-66c6-c3ab-e268-41e2d8d675a0/196871378383.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/5d/dc/ea5ddcb8-66c6-c3ab-e268-41e2d8d675a0/196871378383.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Lil Boo Thang - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/lil-boo-thang-single/1702576699?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2023 Paul Russell under exclusive license to Arista Records, a division of Sony Music Entertainment"
+                },
+                "title": {
+                    "label": "Lil Boo Thang - Paul Russell"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/lil-boo-thang/1702576699?i=1702576701&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ca/df/09/cadf095d-cf89-dc32-5c2e-a91cac84b0e4/mzaf_11877537738558572444.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/lil-boo-thang/1702576699?i=1702576701&uo=2",
+                    "attributes": {
+                        "im:id": "1702576701"
+                    }
+                },
+                "im:artist": {
+                    "label": "Paul Russell",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/paul-russell/1304377463?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "14",
+                        "term": "Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop/id14?uo=2",
+                        "label": "Pop"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-08-18T05:00:00-07:00",
+                    "attributes": {
+                        "label": "18 August 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Strangers"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/da/f7/82daf7a1-4d0e-9a94-9314-0916e4ab5635/054391385239.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/da/f7/82daf7a1-4d0e-9a94-9314-0916e4ab5635/054391385239.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/da/f7/82daf7a1-4d0e-9a94-9314-0916e4ab5635/054391385239.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Strangers - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/strangers-single/1704393598?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "Major Recordings, ℗ 2023 KGJ Music Ltd, under exclusive license to Warner Records Inc."
+                },
+                "title": {
+                    "label": "Strangers - Kenya Grace"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/strangers/1704393598?i=1704393613&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/85/5b/b5/855bb54a-f6ca-2b11-22ad-3c9ac15bd019/mzaf_9858952301706094448.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/strangers/1704393598?i=1704393613&uo=2",
+                    "attributes": {
+                        "im:id": "1704393613"
+                    }
+                },
+                "im:artist": {
+                    "label": "Kenya Grace",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/kenya-grace/1476584041?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "17",
+                        "term": "Dance",
+                        "scheme": "https://music.apple.com/gb/genre/music-dance/id17?uo=2",
+                        "label": "Dance"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-09-01T05:00:00-07:00",
+                    "attributes": {
+                        "label": "01 September 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "DNA (Loving You) [feat. Hannah Boleyn]"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/a0/b5/e7a0b564-9a9c-8ec2-59a7-398370f52838/075679675637.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/a0/b5/e7a0b564-9a9c-8ec2-59a7-398370f52838/075679675637.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/a0/b5/e7a0b564-9a9c-8ec2-59a7-398370f52838/075679675637.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "DNA (Loving You) [feat. Hannah Boleyn] - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/dna-loving-you-feat-hannah-boleyn-single/1699088991?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2023 Big Beat Records"
+                },
+                "title": {
+                    "label": "DNA (Loving You) [feat. Hannah Boleyn] - Billy Gillies"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/dna-loving-you-feat-hannah-boleyn/1699088991?i=1699089139&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/10/ea/15/10ea150c-19ba-7acb-f983-fcee3f1b2e40/mzaf_14976381604783022004.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/dna-loving-you-feat-hannah-boleyn/1699088991?i=1699089139&uo=2",
+                    "attributes": {
+                        "im:id": "1699089139"
+                    }
+                },
+                "im:artist": {
+                    "label": "Billy Gillies",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/billy-gillies/310025086?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "17",
+                        "term": "Dance",
+                        "scheme": "https://music.apple.com/gb/genre/music-dance/id17?uo=2",
+                        "label": "Dance"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2023-07-28T05:00:00-07:00",
+                    "attributes": {
+                        "label": "28 July 2023"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Tension"
+                },
+                "rights": {
+                    "label": "℗ 2023 Kylie Minogue/Darenote under exclusive license to BMG Rights Management (UK) Limited"
+                },
+                "im:price": {
+                    "label": "£0.99",
+                    "attributes": {
+                        "amount": "0.99",
+                        "currency": "GBP"
+                    }
+                },
+                "im:collection": {
+                    "im:name": {
+                        "label": "Tension (Deluxe)"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/tension-deluxe/1687005178?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/53/d0/1e53d006-bd10-4b22-37f8-a65ff826a47d/4050538925289.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/53/d0/1e53d006-bd10-4b22-37f8-a65ff826a47d/4050538925289.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/53/d0/1e53d006-bd10-4b22-37f8-a65ff826a47d/4050538925289.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:artist": {
+                    "label": "Kylie Minogue",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/kylie-minogue/465031?uo=2"
+                    }
+                },
+                "title": {
+                    "label": "Tension - Kylie Minogue"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/tension/1687005178?i=1687005183&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c1/12/ec/c112ecba-5024-9555-75d9-c001c2c30bbe/mzaf_9610563543686270885.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/tension/1687005178?i=1687005183&uo=2",
+                    "attributes": {
+                        "im:id": "1687005183"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "14",
+                        "term": "Pop",
+                        "scheme": "https://music.apple.com/gb/genre/music-pop/id14?uo=2",
+                        "label": "Pop"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Calm Down"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/55x55bb.png",
+                        "attributes": {
+                            "height": "55"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/60x60bb.png",
+                        "attributes": {
+                            "height": "60"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/170x170bb.png",
+                        "attributes": {
+                            "height": "170"
+                        }
+                    }
+                ],
+                "im:collection": {
+                    "im:name": {
+                        "label": "Calm Down - Single"
+                    },
+                    "link": {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/calm-down-single/1640501237?uo=2"
+                        }
+                    },
+                    "im:contentType": {
+                        "im:contentType": {
+                            "attributes": {
+                                "term": "Album",
+                                "label": "Album"
+                            }
+                        },
+                        "attributes": {
+                            "term": "Music",
+                            "label": "Music"
+                        }
+                    }
+                },
+                "im:price": {
+                    "label": "£0.59",
+                    "attributes": {
+                        "amount": "0.59",
+                        "currency": "GBP"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Track",
+                            "label": "Track"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "Music"
+                    }
+                },
+                "rights": {
+                    "label": "℗ 2022 Mavin Global Holdings Ltd/Jonzing World Entertainment/SMG Music LLC, under exclusive licence to Interscope Records"
+                },
+                "title": {
+                    "label": "Calm Down - Rema & Selena Gomez"
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://music.apple.com/gb/album/calm-down/1640501237?i=1640501238&uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "30000"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "audio/x-m4a",
+                            "href": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/21/6a/f7/216af760-4f00-d65e-5176-d3b76ff1143d/mzaf_2980767460617264812.plus.aac.p.m4a",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://music.apple.com/gb/album/calm-down/1640501237?i=1640501238&uo=2",
+                    "attributes": {
+                        "im:id": "1640501238"
+                    }
+                },
+                "im:artist": {
+                    "label": "Rema & Selena Gomez",
+                    "attributes": {
+                        "href": "https://music.apple.com/gb/artist/rema/1304716885?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "100051",
+                        "term": "Afrobeats",
+                        "scheme": "https://music.apple.com/gb/genre/music-african-afrobeats/id100051?uo=2",
+                        "label": "Afrobeats"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2022-03-25T05:00:00-07:00",
+                    "attributes": {
+                        "label": "25 March 2022"
+                    }
+                }
+            }
+        ],
+        "updated": {
+            "label": "2023-09-15T00:29:12-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Top Songs"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=gb&id=130&popId=1"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://mzstoreservices-int.itunes.apple.com/gb/rss/topsongs/limit=20/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://mzstoreservices-int.itunes.apple.com/gb/rss/topsongs/limit=20/json"
+        }
+    }
+}
