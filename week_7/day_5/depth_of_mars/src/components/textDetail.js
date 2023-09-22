@@ -3,11 +3,9 @@ import './textDetail.css'
 const TextDetail =({image}) => {
 
     const buttonClicked = function (event) {
-        // event.preventDefault();
-        // buttonClicked[event.target.value]
+        event.preventDefault();
+        buttonClicked[event.target.value]
     }
-
-
 
     return(
         <div className="image-detail">
@@ -18,12 +16,12 @@ const TextDetail =({image}) => {
                 <ul>Earth Date: {image.earth_date}</ul>
                 <ul>Rover Camera: {image.camera.full_name}</ul>
                 <ul>Rover: {image.rover.name}</ul>
-                {/* <ul><button onClick={buttonClicked}>Show more info</button></ul> */}
-                {buttonClicked ? <ul>
-                    <ul>Landing Date: {image.rover.landing_date}</ul>
-                    <ul>Launch Date: {image.rover.launch_date}</ul>
-                    <ul>Status: {image.rover.status}</ul>
-                </ul> : null}
+                <ul><button onClick={buttonClicked}>Show more info</button></ul>
+                {buttonClicked ? <div><ul>
+                        <ul>Landing Date: {image.rover.landing_date}</ul>
+                        <ul>Launch Date: {image.rover.launch_date}</ul>
+                        <ul>Status: {image.rover.status}</ul>
+                    </ul></div> : null}
             </ul>
         </div>
     )
