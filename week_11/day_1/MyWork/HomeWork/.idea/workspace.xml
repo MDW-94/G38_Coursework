@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ceb0a32-4405-4585-b1d3-245c99f0322b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/day_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays/src/main/java/NumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays/src/main/java/WordCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays/src/test/java/NumberListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays/src/test/java/WordCollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntroToJava/IntroToJava/src/main/java/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntroToJava/IntroToJava/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingleClasses/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingleClasses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingleClasses/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingleClasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingleClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingleClasses/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingleClasses/src/main/java/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingleClasses/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SingleClasses/src/test/java/BearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_1/classes_homework/single_class_homework_solution/single_class_homework_solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_1/intro/java_end_point/introToJava/introToJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_4/day_2/music_lab_hw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_4/day_2/music_lab_hw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_8/day_3/e_commerce_lab/ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_8/day_3/e_commerce_lab/ecommerce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_9/day_3/grouplab_hotel_bookings/Booking_lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_9/day_3/grouplab_hotel_bookings/Booking_lab" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2WqdfkTSOltdkxnAlzSH6s6ORTO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/apple/Desktop/Code Clan G38/G38_Coursework/week_11/day_1/MyWork/HomeWork"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ceb0a32-4405-4585-b1d3-245c99f0322b" name="Changes" comment="" />
+      <created>1697464149580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697464149580</updated>
+    </task>
+    <servers />
+  </component>
+</project>

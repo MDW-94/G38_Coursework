@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77878903-bc6e-4a83-b317-fcb06b287f0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../day_1/.idea/day_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/Arrays/Arrays/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/Arrays/Arrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/Arrays/Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/Arrays/Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/Arrays/Arrays/src/main/java/NumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/Arrays/Arrays/src/main/java/WordCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/Arrays/Arrays/src/test/java/NumberListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/Arrays/Arrays/src/test/java/WordCollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/.idea/HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/src/main/java/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/src/main/java/WaterBottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/src/test/java/PrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/HomeWork/SingleClassHomework/src/test/java/WaterBottleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/IntroToJava/IntroToJava/src/main/java/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/IntroToJava/IntroToJava/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/SingleClasses/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/SingleClasses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/SingleClasses/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/SingleClasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/SingleClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/SingleClasses/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/SingleClasses/src/main/java/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/SingleClasses/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/MyWork/SingleClasses/src/test/java/BearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/day_1/classes_homework/single_class_homework_solution/single_class_homework_solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day_1/day_1/intro/java_end_point/introToJava/introToJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/River.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RiverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HashMapDemo/HashMapDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HashMapDemo/HashMapDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HashMapDemo/HashMapDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HashMapDemo/HashMapDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HashMapDemo/HashMapDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HashMapDemo/HashMapDemo/src/main/java/HashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_4/day_2/music_lab_hw" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_4/day_2/music_lab_hw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_8/day_3/e_commerce_lab/ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_8/day_3/e_commerce_lab/ecommerce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_9/day_3/grouplab_hotel_bookings/Booking_lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_9/day_3/grouplab_hotel_bookings/Booking_lab" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2Wt1EL7mRmkEozBremv7UcstjBV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.All in BearRiverFish">
+    <configuration name="All in BearRiverFish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BearRiverFish" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BearRiverFish" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BearTest.canEatSalmon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BearRiverFish" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="METHOD_NAME" value="canEatSalmon" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BearTest.canShitInTheWoods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BearRiverFish" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BearTest" />
+      <option name="METHOD_NAME" value="canShitInTheWoods" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RiverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BearRiverFish" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RiverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in BearRiverFish" />
+        <item itemvalue="JUnit.RiverTest" />
+        <item itemvalue="JUnit.BearTest.canShitInTheWoods" />
+        <item itemvalue="JUnit.BearTest" />
+        <item itemvalue="JUnit.BearTest.canEatSalmon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77878903-bc6e-4a83-b317-fcb06b287f0b" name="Changes" comment="" />
+      <created>1697536951827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697536951827</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
