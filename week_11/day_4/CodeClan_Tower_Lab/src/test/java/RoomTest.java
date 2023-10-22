@@ -11,7 +11,7 @@ public class RoomTest {
 
     @Before
     public void before(){
-        bedroom = new Bedroom(RoomType.DOUBLE.getCapacity(), RoomType.DOUBLE, 101);
+        bedroom = new Bedroom(RoomType.DOUBLE.getCapacity(), RoomType.DOUBLE, 101, 50);
         confRoom = new ConferenceRoom(RoomType.CONF.getCapacity(), RoomType.CONF, "Glasgow");
         guest = new Guest("Glen Mitchell");
     }

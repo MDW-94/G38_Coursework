@@ -1,7 +1,8 @@
 public enum RoomType {
     SINGLE(1),
     DOUBLE(2),
-    CONF(50);
+    CONF(50),
+    DINING(40);
 
     // an enum is another way of storing info like a Hashmap
     // another way of storing data - used in scenarios
