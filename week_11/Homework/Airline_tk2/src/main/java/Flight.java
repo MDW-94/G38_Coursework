@@ -16,10 +16,10 @@ public class Flight {
     private String flightNumber;
     private AirportID destinationAirport;
     private AirportID departureAirport;
-    private Date departureTime;
+    private String departureTime;
 
 
-    public Flight(String flightNumber, AirportID destinationAirport, AirportID departureAirport, Date departureTime, Plane plane) {
+    public Flight(String flightNumber, AirportID destinationAirport, AirportID departureAirport, String departureTime, Plane plane) {
         this.flightNumber = flightNumber;
         this.destinationAirport = destinationAirport;
         this.departureAirport = departureAirport;
@@ -62,7 +62,7 @@ public class Flight {
         return departureAirport;
     }
 
-    public Date getDepartureTime() {
+    public String getDepartureTime() {
         return departureTime;
     }
 
@@ -70,7 +70,7 @@ public class Flight {
         this.flightNumber = flightNumber;
     }
 
-    public void setDepartureTime(Date departureTime) {
+    public void setDepartureTime(String departureTime) {
         this.departureTime = departureTime;
     }
 

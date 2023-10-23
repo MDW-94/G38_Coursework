@@ -43,7 +43,7 @@ public class FlightTest {
         crew2 = new CabinCrewMember("Joseph", Rank.FLIGHTATTENDANT);
         crew3 = new CabinCrewMember("Sarah", Rank.FLIGHTATTENDANT);
 
-        flight = new Flight("SC4545", AirportID.SPA, AirportID.GLA, 10222023, plane);
+        flight = new Flight("SC4545", AirportID.SPA, AirportID.GLA, "1400", plane);
     }
 
 
@@ -116,13 +116,13 @@ public class FlightTest {
 
     @Test
     public void flightHasDepartureTime(){
-        assertEquals("12:30", flight.getDepartureTime());
+        assertEquals("1400", flight.getDepartureTime());
     }
 
     @Test
     public void canSetDepartureTime(){
-        flight.setDepartureTime("1400");
-        assertEquals("1400", flight.getDepartureTime());
+        flight.setDepartureTime("1500");
+        assertEquals("1500", flight.getDepartureTime());
     }
 
     @Test
