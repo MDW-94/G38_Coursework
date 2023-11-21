@@ -4,7 +4,7 @@ const TextDetail =({image}) => {
 
     const buttonClicked = function (event) {
         event.preventDefault();
-        buttonClicked[event.target.value]
+        // buttonClicked[event.target.value]
     }
 
     return(

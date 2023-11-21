@@ -1,4 +1,5 @@
 package com.codeclan.example.pirateservice.models;
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import javax.persistence.*;
@@ -16,7 +17,10 @@ public class Raid {
     @Column(name="name")
     private String name;
 
-    @JsonIgnoreProperties({"raids"})
+    @Column(name="loot")
+    private int loot;
+
+    @JsonBackReference
     @ManyToMany
     @JoinTable(
             name="pirates_raids",
@@ -33,8 +37,9 @@ public class Raid {
     )
     private List<Pirate> pirates;
 
-    public Raid(String name) {
+    public Raid(String name, int loot) {
         this.name = name;
+        this.loot = loot;
         this.pirates = new ArrayList<>();
     }
 
@@ -48,6 +53,14 @@ public class Raid {
 
     public void setId(Long id) {
         this.id = id;
+    }
+
+    public int getLoot() {
+        return loot;
+    }
+
+    public void setLoot(int loot) {
+        this.loot = loot;
     }
 
     public String getName() {
