@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { useCountries } from "./hooks/useCountries";
+import { Form } from "./components/Form/Form";
 
 const LoadingStyle = styled.h2`
 justify-content: center;
@@ -25,6 +26,7 @@ function App() {
     </>
   ) : (
     <>
+    <Form onSubmit={ (formValues) => console.log({ formValues})} />
       <pre>{JSON.stringify(countries, null, 2)}</pre>
     </>
   );
